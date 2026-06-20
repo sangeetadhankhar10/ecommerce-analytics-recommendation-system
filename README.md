@@ -7,7 +7,7 @@ This system helps businesses understand customer behavior, identify top products
 ---
 
 ## 🚀 Live Demo
-🔗 https://your-streamlit-link-here
+🔗 https://ecommerce-analytics-recommendation-system-kkmpcizdysqsrhhpl674.streamlit.app/
 
 ---
 
